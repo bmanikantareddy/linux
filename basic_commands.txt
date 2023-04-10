@@ -1,1 +1,4 @@
 # we are going to list all the basic commands in this file .
+
+https://ss64.com/bash/ 
+
